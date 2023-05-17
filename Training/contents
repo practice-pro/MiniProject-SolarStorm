@@ -1,0 +1,6 @@
+This folder contains:
+A file that includes training of a Sequence-to-Sequence GRU model that maps the values of magentic field detected by DSCOVR in the GSE plane to the number density(N), Temperature of the bulk(V) and Current/Ion density(W) of the solar protons detected by Wind Spacecraft.
+A file that includes training of a Sequence-to-Sequence GRU model that predicts the Disturbance caused due to (N) through dst.
+A file that includes training of a Sequence-to-Sequence GRU model that predicts the Disturbance caused due to (V) through dst.
+A file that includes training of a Sequence-to-Sequence GRU model that predicts the Disturbance caused due to (W) through dst.
+A file that includes training of a Sequence-to-Sequence GRU model that forecasts 72-hour K-index as DSCOVR records values.
