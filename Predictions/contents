@@ -1,0 +1,3 @@
+This folder has:
+A file to predict kp-index for 3 days using the models created.
+A file to predict dst based on updates in DSCOVR-portal.
